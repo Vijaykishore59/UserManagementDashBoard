@@ -133,6 +133,7 @@ Keeping components and API code organized for maintainability.
 Make sure you have **Node.js** and **npm** installed. Check your versions:
 
 ```bash
+
 node -v
 npm -v
 ---
@@ -144,7 +145,5 @@ npm -v
 ```bash
 git clone https://github.com/your-username/user-management-dashboard.git
 cd user-management-dashboard
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
 npm install
 npm start
